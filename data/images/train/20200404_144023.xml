@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>20200404_144023.jpg</filename>
+	<path>/home/user/my_tensorflow/img/20200404_144023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>918</xmin>
+			<ymin>832</ymin>
+			<xmax>3191</xmax>
+			<ymax>2321</ymax>
+		</bndbox>
+	</object>
+</annotation>
